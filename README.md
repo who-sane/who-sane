@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Dev.io - A collaborative community forum web application<br>👯 I am a recent ICT Graduate<br>🤝 I’m eager to collaborate and learn from complex web projects<br>🌱 I’m currently learning Springboot<br><br>⚡ Fun fact, I do a little game programming! Check out my 'Zorkish' repository to play my latest project!!</p>
+<img align="right" height="150" src="https://public-files.gumroad.com/kgvc8225334ve9m8knkoazy6h796"  />
 
 ###
 
-<img align="right" height="200" src="https://public-files.gumroad.com/kgvc8225334ve9m8knkoazy6h796"  />
+<p align="left">🔭 I’m currently working on Dev.io - A collaborative community forum web application<br>👯 I am a recent ICT Graduate<br>🤝 I’m eager to collaborate and learn from complex web projects<br>🌱 I’m currently learning Springboot<br><br>⚡ Fun fact, I do a little game programming! Check out my 'Zorkish' repository to play my latest project!!</p>
 
 ###
 
