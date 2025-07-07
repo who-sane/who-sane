@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="100" src="https://public-files.gumroad.com/kgvc8225334ve9m8knkoazy6h796"  />
+<img align="right" height="60" src="https://public-files.gumroad.com/kgvc8225334ve9m8knkoazy6h796"  />
 
 ###
 
