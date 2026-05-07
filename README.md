@@ -6,6 +6,9 @@
   </a>
 </p>
 
+<p> <h3>Currently my areas of focus are: </h3> 📊 Data Engineering || 🌐 Full Stack Development || 🤖 AI/ML Engineering
+</br>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/whosane">
