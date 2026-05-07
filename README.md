@@ -13,6 +13,8 @@
 
 </p>
 
+<br>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/whosane">
