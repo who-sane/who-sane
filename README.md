@@ -8,7 +8,7 @@
 
 <p> 
   <h3>Currently my areas of focus are: </h3> 📈 Data Engineering || 🌐 Full Stack Development || 🤖 AI/ML Engineering
-   <br><br> <a href="https://au.linkedin.com/in/hussein-hussein-b26723225"> My LinkedIn    
+   <br><br> <a href="https://www.linkedin.com/in/hussein-h-73b684235/"> My LinkedIn    
   </a>
 
 </p>
