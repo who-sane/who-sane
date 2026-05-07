@@ -26,7 +26,14 @@
   <img src="https://trophy.ryglcloud.net/?username=whosane&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hussein Hussein's GitHub Trophies" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/whosane">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whosane&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
+![Top language](https://stats.pphat.top/languages?username=whosane)
+<br/>
 
 ## 🛠️ Languages & Tools
 
@@ -87,17 +94,10 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 
 </p>
-
-<p align="center">
-  <a href="https://github.com/whosane">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whosane&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=whosane)
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/who-sane/who-sane/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/who-sane/who-sane/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/who-sane/who-sane/output/pacman-contribution-graph.svg">
+</picture>
 
