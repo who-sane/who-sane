@@ -6,8 +6,12 @@
   </a>
 </p>
 
-<p> <h3>Currently my areas of focus are: </h3> 📊 Data Engineering || 🌐 Full Stack Development || 🤖 AI/ML Engineering
-</br>
+<p> 
+  <h3>Currently my areas of focus are: </h3> 📈 Data Engineering || 🌐 Full Stack Development || 🤖 AI/ML Engineering
+   <br><br> <a href="https://au.linkedin.com/in/hussein-hussein-b26723225"> My LinkedIn    
+  </a>
+
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
